@@ -1,0 +1,2 @@
+객실 등급 (Pclass),성별 (Sex),나이 (Age),형제/자매 수 (SibSp),부모/자녀 수 (Parch),요금 (Fare),탑승 항구 (Embarked),output,timestamp
+3,male,30,0,0,32.2,S,,2026-01-23 11:26:11.971328
